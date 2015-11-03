@@ -1,5 +1,5 @@
 # Crystal Server
-This is a personal test project I created on a lab day.
+This is a small test project I created on a lab day.
 
 This project is currently not in a working state as the dynamic parts of the router don't work yet as they should.
 
